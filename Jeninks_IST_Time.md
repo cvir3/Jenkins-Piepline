@@ -32,4 +32,5 @@ jenkins.xml
 6. Save the file
 7. Restart the Jenkins service
 
-> [!NOTE] Jenkins will now run using the IST (Asia/Kolkata) time zone instead of UTC.
+> [!NOTE] 
+> - Jenkins will now run using the IST (Asia/Kolkata) time zone instead of UTC.
